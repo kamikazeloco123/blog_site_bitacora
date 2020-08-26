@@ -2,7 +2,7 @@ body{
   font-style: italic;
 }
 .main{
-  width: 70%;
+  width: 60%;
   margin:20px auto;
   border:1px solid blue;
   padding:20px;
@@ -10,11 +10,16 @@ body{
 }
 h2{
   margin-top:0px;
+  color: darkmagenta;
 }
 .encabezado{
-  background-color: darkcyan;
+  background-color: darkred;
+  color: burlywood;
   padding:20px;
   margin-bottom: 20px;
   font-size: 30px;
   box-shadow: 0px 5px 10px black;
+}
+h3{
+  color: crimson;
 }
